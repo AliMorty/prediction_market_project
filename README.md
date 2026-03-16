@@ -1,2 +1,2 @@
 # prediction_market_project
-I'm curious if my Online Learning Knowledge can be used to aggregate well on Prediction Market, and I want to experiment it here.
+I'm a PhD Candidate, and I have been working on online learning, incentives and areas adjacent to prediction markets in my PhD. I'm curious if my Theory could be applied to real-world applications. I want to try this out. 
