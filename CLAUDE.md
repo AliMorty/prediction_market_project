@@ -40,6 +40,11 @@ A short high-level paragraph describing what was accomplished this session.
 - Anything left to do or follow up on
 ```
 
+## When You Hit a Problem
+- If something doesn't work as expected (API returns no data, a plan hits a dead end, an assumption turns out to be wrong), **stop and tell the user immediately**.
+- Do NOT silently try ad-hoc workarounds or pivot to a different approach without informing the user first.
+- Clearly state: what you tried, what went wrong, and what the options are — then wait for direction.
+
 ## Virtual Environment
 - Always use `/home/alimorty/prediction_market_project/.venv/bin/python` and `.venv/bin/pip` — never system Python or pip.
 
